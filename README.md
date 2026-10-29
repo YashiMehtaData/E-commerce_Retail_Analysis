@@ -10,7 +10,7 @@
 7. Groceries are less purchasing by customers
 8. Product delivered rate is medium
   
-# Power B
+# Power BI
 
 1. Identifying the highest sales region
 
